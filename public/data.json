@@ -1,0 +1,92 @@
+[
+  {
+    "PlayerName": "Shakib Al Hasan",
+    "PlayerImage": "https://example.com/shakib.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "All-Rounder",
+    "Batting Style": "Left-Handed",
+    "Bowling Style": "Left-Arm Orthodox",
+    "Price": 8000000
+  },
+  {
+    "PlayerName": "Litton Das",
+    "PlayerImage": "https://example.com/litton.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "Batsman",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "N/A",
+    "Price": 6500000
+  },
+  {
+    "PlayerName": "Mustafizur Rahman",
+    "PlayerImage": "https://example.com/mustafizur.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "Bowler",
+    "Batting Style": "Left-Handed",
+    "Bowling Style": "Left-Arm Fast-Medium",
+    "Price": 7000000
+  },
+  {
+    "PlayerName": "Taskin Ahmed",
+    "PlayerImage": "https://example.com/taskin.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "Bowler",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Fast",
+    "Price": 6000000
+  },
+  {
+    "PlayerName": "Towhid Hridoy",
+    "PlayerImage": "https://example.com/hridoy.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "Batsman",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Off-Break",
+    "Price": 4500000
+  },
+  {
+    "PlayerName": "Mehidy Hasan Miraz",
+    "PlayerImage": "https://example.com/miraz.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "All-Rounder",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Off-Break",
+    "Price": 7500000
+  },
+  {
+    "PlayerName": "Najmul Hossain Shanto",
+    "PlayerImage": "https://example.com/shanto.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "Batsman",
+    "Batting Style": "Left-Handed",
+    "Bowling Style": "Right-Arm Off-Break",
+    "Price": 5500000
+  },
+  {
+    "PlayerName": "Rishad Hossain",
+    "PlayerImage": "https://example.com/rishad.jpg",
+    "Origin": "Bangladesh",
+    "PlayingType": "All-Rounder",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Leg-Break",
+    "Price": 4000000
+  },
+  {
+    "PlayerName": "Jasprit Bumrah",
+    "PlayerImage": "https://example.com/bumrah.jpg",
+    "Origin": "India",
+    "PlayingType": "Bowler",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Fast",
+    "Price": 9500000
+  },
+  {
+    "PlayerName": "Virat Kohli",
+    "PlayerImage": "https://example.com/kohli.jpg",
+    "Origin": "India",
+    "PlayingType": "Batsman",
+    "Batting Style": "Right-Handed",
+    "Bowling Style": "Right-Arm Medium",
+    "Price": 10000000
+  }
+]
