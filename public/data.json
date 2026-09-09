@@ -1,92 +1,92 @@
 [
   {
     "PlayerName": "Shakib Al Hasan",
-    "PlayerImage": "https://example.com/shakib.jpg",
+    "PlayerImage": "https://i.pinimg.com/564x/79/92/d7/7992d7c9ecf9aaf1e8c353c34b92c41e.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "All-Rounder",
-    "Batting Style": "Left-Handed",
-    "Bowling Style": "Left-Arm Orthodox",
+    "BattingStyle": "Left-Handed",
+    "BowlingStyle": "Left-Arm Orthodox",
     "Price": 8000000
   },
   {
     "PlayerName": "Litton Das",
-    "PlayerImage": "https://example.com/litton.jpg",
+    "PlayerImage": "https://media.prothomalo.com/prothomalo-english/2025-09-11/li7k4b44/prothomalo-bangla2025-08-172b9etc7gLiton-at-Na-cricket-team-practice-at-Academy-ground1.avif?w=1200&h=675&auto=format%2Ccompress&fit=max",
     "Origin": "Bangladesh",
     "PlayingType": "Batsman",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "N/A",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "N/A",
     "Price": 6500000
   },
   {
     "PlayerName": "Mustafizur Rahman",
-    "PlayerImage": "https://example.com/mustafizur.jpg",
+    "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/383500/383539.6.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "Bowler",
-    "Batting Style": "Left-Handed",
-    "Bowling Style": "Left-Arm Fast-Medium",
+    "BattingStyle": "Left-Handed",
+    "BowlingStyle": "Left-Arm Fast-Medium",
     "Price": 7000000
   },
   {
     "PlayerName": "Taskin Ahmed",
-    "PlayerImage": "https://example.com/taskin.jpg",
+    "PlayerImage": "https://www.bssnews.net/assets/news_photos/2022/12/06/image-98298-1670325515.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "Bowler",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "Right-Arm Fast",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "Right-Arm Fast",
     "Price": 6000000
   },
   {
     "PlayerName": "Towhid Hridoy",
-    "PlayerImage": "https://example.com/hridoy.jpg",
+    "PlayerImage": "https://img.ipl.com/upload/20260122/d377262c30c5f49a3c354ed6766d849a.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "Batsman",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "Right-Arm Off-Break",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "Right-Arm Off-Break",
     "Price": 4500000
   },
   {
     "PlayerName": "Mehidy Hasan Miraz",
-    "PlayerImage": "https://example.com/miraz.jpg",
+    "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/421200/421254.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "All-Rounder",
-    "Batting Style": "Right-Handed",
+    "BattingStyle": "Right-Handed",
     "Bowling Style": "Right-Arm Off-Break",
     "Price": 7500000
   },
   {
     "PlayerName": "Najmul Hossain Shanto",
-    "PlayerImage": "https://example.com/shanto.jpg",
+    "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361700/361798.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "Batsman",
-    "Batting Style": "Left-Handed",
-    "Bowling Style": "Right-Arm Off-Break",
+    "BattingStyle": "Left-Handed",
+    "BowlingStyle": "Right-Arm Off-Break",
     "Price": 5500000
   },
   {
     "PlayerName": "Rishad Hossain",
-    "PlayerImage": "https://example.com/rishad.jpg",
+    "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/380300/380392.6.jpg",
     "Origin": "Bangladesh",
     "PlayingType": "All-Rounder",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "Right-Arm Leg-Break",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "Right-Arm Leg-Break",
     "Price": 4000000
   },
   {
     "PlayerName": "Jasprit Bumrah",
-    "PlayerImage": "https://example.com/bumrah.jpg",
+    "PlayerImage": "https://www.livemint.com/lm-img/img/2025/08/04/600x338/Jasprit_Bumrah_1754284513653_1754284513925.jpg",
     "Origin": "India",
     "PlayingType": "Bowler",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "Right-Arm Fast",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "Right-Arm Fast",
     "Price": 9500000
   },
   {
     "PlayerName": "Virat Kohli",
-    "PlayerImage": "https://example.com/kohli.jpg",
+    "PlayerImage": "https://i.guim.co.uk/img/media/90f3d9d62e357b22062397771403e115ec6e0f53/804_287_2486_1988/master/2486.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=55620d64ae0f9ae6918a3b7528ebf841",
     "Origin": "India",
     "PlayingType": "Batsman",
-    "Batting Style": "Right-Handed",
-    "Bowling Style": "Right-Arm Medium",
+    "BattingStyle": "Right-Handed",
+    "BowlingStyle": "Right-Arm Medium",
     "Price": 10000000
   }
 ]
